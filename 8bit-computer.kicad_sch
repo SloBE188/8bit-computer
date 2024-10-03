@@ -1,0 +1,55 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "69fbe992-daea-48ef-a334-534e6aaff013")
+	(paper "A4")
+	(title_block
+		(title "8bit-computer")
+		(date "2024-09-30")
+	)
+	(lib_symbols)
+	(sheet
+		(at 25.4 24.13)
+		(size 63.5 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "80d59056-aa8a-48d2-9b05-9cb963e5cf30")
+		(property "Sheetname" "clock_timer"
+			(at 25.4 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "clock_timer.kicad_sch"
+			(at 25.4 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "8bit-computer"
+				(path "/69fbe992-daea-48ef-a334-534e6aaff013"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
